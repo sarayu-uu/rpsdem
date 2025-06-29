@@ -1,0 +1,58 @@
+{
+    "session_id": "20250616_094411",
+    "start_time": "2025-06-16 09:44:11",
+    "game_version": "1.0",
+    "rounds": [
+        {
+            "round_number": 1,
+            "timestamp": "2025-06-16 09:44:18",
+            "user_choice": "paper",
+            "computer_choice": "paper",
+            "winner": "tie",
+            "ai_mode": "random",
+            "ai_difficulty": 0.7,
+            "user_score": 0,
+            "computer_score": 0,
+            "decision_time": 0.31,
+            "current_streak": 1,
+            "streak_type": "tie",
+            "previous_user_move": null,
+            "detection_duration": 3,
+            "match_progress": "1/5"
+        },
+        {
+            "round_number": 2,
+            "timestamp": "2025-06-16 09:44:27",
+            "user_choice": "rock",
+            "computer_choice": "paper",
+            "winner": "computer",
+            "ai_mode": "random",
+            "ai_difficulty": 0.7,
+            "user_score": 0,
+            "computer_score": 1,
+            "decision_time": 0.31,
+            "current_streak": 1,
+            "streak_type": "computer",
+            "previous_user_move": "paper",
+            "detection_duration": 3,
+            "match_progress": "2/5"
+        },
+        {
+            "round_number": 3,
+            "timestamp": "2025-06-16 09:44:37",
+            "user_choice": "paper",
+            "computer_choice": "paper",
+            "winner": "tie",
+            "ai_mode": "random",
+            "ai_difficulty": 0.7,
+            "user_score": 0,
+            "computer_score": 1,
+            "decision_time": 0.31,
+            "current_streak": 1,
+            "streak_type": "tie",
+            "previous_user_move": "rock",
+            "detection_duration": 3,
+            "match_progress": "3/5"
+        }
+    ]
+}

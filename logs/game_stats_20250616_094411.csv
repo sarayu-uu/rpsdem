@@ -1,0 +1,4 @@
+round_number,timestamp,user_choice,computer_choice,winner,ai_mode,ai_difficulty,user_score,computer_score,decision_time,current_streak,streak_type,previous_user_move,detection_duration,match_progress
+1,2025-06-16 09:44:18,paper,paper,tie,random,0.7,0,0,0.31,1,tie,,3,1/5
+2,2025-06-16 09:44:27,rock,paper,computer,random,0.7,0,1,0.31,1,computer,paper,3,2/5
+3,2025-06-16 09:44:37,paper,paper,tie,random,0.7,0,1,0.31,1,tie,rock,3,3/5
