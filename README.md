@@ -1,6 +1,6 @@
-# Rock-Paper-Scissors Game with Adaptive AI
+# CV-AI Showdown: Rock-Paper-Scissors
 
-This project is a real-time, interactive Rock-Paper-Scissors game where you play against a sophisticated, adaptive AI using hand gestures captured by your webcam. It's built entirely in Python using OpenCV for computer vision and UI, and NumPy for numerical operations.
+OpenCV | AI | Gesture | Real-time | Python
 
 ## Features
 

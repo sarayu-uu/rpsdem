@@ -1,0 +1,2 @@
+round_number,timestamp,user_choice,computer_choice,winner,ai_mode,ai_difficulty,user_score,computer_score,decision_time,current_streak,streak_type,previous_user_move,detection_duration,match_progress
+1,2025-07-06 15:13:46,scissors,scissors,tie,random,0.7,0,0,0.31,1,tie,,3,1/5
